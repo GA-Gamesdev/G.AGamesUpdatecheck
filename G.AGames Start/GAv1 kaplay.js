@@ -14,7 +14,8 @@ loadSprite("ga","https://image2url.com/r2/default/images/1772058295528-ccb9ac04-
 add([
 sprite("ga"),
 anchor("center"),
-pos(150,150)
+pos(150,150),
+scale(0.3)
 ])
 })
 go("loadgame")
