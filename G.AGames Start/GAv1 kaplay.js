@@ -20,8 +20,8 @@ scale(0.3)
 add([
 text("made by"),
 anchor("center"),
-pos(300,50),
-scale(0.3)
+pos(300,150),
+scale(0.88)
 ])
 })
 go("loadgame")
