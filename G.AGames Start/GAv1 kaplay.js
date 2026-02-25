@@ -1,7 +1,10 @@
 //gagames start for kaplay
 kaplay({
-width:600,
+  width:600,
 height:600,
+crisp:true,
+letterbox:true,
+stretch:true
 })
 scene("loadgame",()=>{
 setBackground(0,0,0)
