@@ -14,7 +14,13 @@ loadSprite("ga","https://image2url.com/r2/default/images/1772058295528-ccb9ac04-
 add([
 sprite("ga"),
 anchor("center"),
-pos(150,150),
+pos(300,300),
+scale(0.3)
+])
+add([
+text("made by"),
+anchor("center"),
+pos(300,50),
 scale(0.3)
 ])
 })
