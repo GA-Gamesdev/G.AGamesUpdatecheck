@@ -1,4 +1,4 @@
-const PluginData = {
+export const PluginData = {
   PluginID:"plugintest",
   PluginCode:{
     Test(){
